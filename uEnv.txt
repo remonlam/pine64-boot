@@ -1,0 +1,6 @@
+cat /boot/uEnv.txt
+console=tty0 console=ttyS0,115200n8 no_console_suspend
+kernel_filename=pine64/Image
+initrd_filename=initrd.img
+ethaddr=36:c9:e3:f1:b8:04
+mac_addr=36:c9:e3:f1:b8:04
